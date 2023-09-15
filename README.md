@@ -1,6 +1,7 @@
 # analisa_fenotipo
 
 O código analisa.py lê um arquivo .csv que contém o peso, a altura, a cor do cabelo e a cor do olho de 50 pessoas fictícias.
+
 Em seguida, o programa:
 (1) cria um novo arquivo .xlsx com todos os dados do arquivo .csv (em outras palavras, ele converte o arquivo .csv em um
 arquivo .xlsx, mantendo o arquivo original);
