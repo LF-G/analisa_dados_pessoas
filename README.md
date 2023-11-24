@@ -7,8 +7,8 @@ um arquivo .xlsx, mantendo o arquivo original);
 (2) calcula as medidas de tendência central das variáveis quantitativas peso e altura e as escreve no novo arquivo;
 (3) constrói a tabela de contingência das variáveis qualitativas "Cor do cabelo" e "Cor do olho" e desenha essa tabela no
 novo arquivo;
-(4) constrói o gráfico de dispersão das variáveis "peso" e "altura", calcula a correlação entre elas e imprime essas infor-
-mações (o gráfico e a correlação) no novo arquivo.
+(4) constrói o gráfico de dispersão das variáveis "peso" e "altura", calcula a correlação entre elas e imprime essas informações
+(o gráfico e a correlação) no novo arquivo.
 
 O programa pode ser facilmente adaptado para ler muitas tabelas semelhantes e extrair delas as mesmas informações.
 
