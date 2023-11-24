@@ -14,5 +14,5 @@ novo arquivo;
 (4) constrói o gráfico de dispersão das variáveis "peso" e "altura", calcula a correlação entre elas e imprime essas informações
 (o gráfico e a correlação) no novo arquivo.
 
-O programa pode ser facilmente adaptado para ler muitas tabelas semelhantes e extrair delas as mesmas informações.
+O código pode ser facilmente adaptado para ler muitas tabelas semelhantes e extrair delas as mesmas informações ou informações semelhantes.
 
