@@ -1,4 +1,4 @@
-# analisa_fenotipo
+# analisa_dados_pessoas
 
 O código analisa.py lê o arquivo dados_fenotipo.csv, que contém o peso, a altura, a cor do cabelo e a cor do olho de 50 pessoas fictícias.
 Em seguida, o programa:
